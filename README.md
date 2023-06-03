@@ -2,7 +2,7 @@
 
 <h1 align= "center"><b>Google Foobar Challenge </b></h1>
 
-> An invite from the Google Cybersecurity Professional Certificate
+> An invite from the Google Cybersecurity Professional Certificate @find.foo/2023GoogleCerts
 
 > Random invitation from Googling stuff
 
